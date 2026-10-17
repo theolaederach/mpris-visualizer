@@ -47,7 +47,7 @@ Python et les bibliothèques graphiques sont inclus dans l'AppImage. Pour lancer
 ### Option 2 : depuis le code source
 
 ```bash
-git clone https://github.com/theolaederach2/mpris-visualizer.git
+git clone https://github.com/theolaederach/mpris-visualizer.git
 cd mpris-visualizer
 python3 -m venv .venv
 source .venv/bin/activate
